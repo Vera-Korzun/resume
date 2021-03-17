@@ -18,6 +18,7 @@ const Wrapper = styled.div`
     flex-wrap: wrap;
   }
   .education__describe {
+    margin-right: 10px;
   }
 `;
 

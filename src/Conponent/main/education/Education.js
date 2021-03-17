@@ -31,8 +31,8 @@ const Education = () => {
             <li className="education__list-item" key={idx}>
               <p className="education__describe-year">{item.year}</p>
               <div className="education__describe-place">
-                <p className="education__describe">{item.name},</p>
                 <p className="education__describe">{item.type},</p>
+                <p className="education__describe">{item.name},</p>
               </div>
               <p className="education__describe"> {item.place}</p>
             </li>

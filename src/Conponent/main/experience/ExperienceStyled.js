@@ -3,6 +3,9 @@ import styled from "styled-components";
 const Wrapper = styled.div`
   .experience__list {
   }
+  .experience__list-item {
+    margin-top: 20px;
+  }
   .experience__list-item-del {
     display: flex;
     margin-bottom: 15px;

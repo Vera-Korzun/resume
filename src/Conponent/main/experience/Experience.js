@@ -1,5 +1,5 @@
 import React from "react";
-import { experience, experienceW } from "../../data/data";
+import { experience } from "../../data/data";
 import ExperienceWrapper from "./ExperienceStyled";
 
 const Experience = () => {

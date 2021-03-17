@@ -98,7 +98,7 @@ export const experience = [
     name: "consultant",
     year: "2018-Present",
     place: "Gothenburg,Sweden",
-    competence: [],
+    competence: ["Accounting"],
   },
   {
     work: "ABSOLUTBANK",
@@ -108,7 +108,7 @@ export const experience = [
     place: "Minsk,Belarus",
     competence: [
       "Administration and technical support of main program module",
-      " Commissioning of the company's software package",
+      "Commissioning of the company's software package",
       "Creation of financial reports",
       "Development and improvement of internal processes",
       "Communication with internal and external customers",
