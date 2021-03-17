@@ -122,10 +122,10 @@ export const experience = [
 export const projects = [
   {
     name: "SlimMom",
-    link: "https://vera-korzun.github.io/Project-2/",
+    link: "https://vera-korzun-teamproject-3.netlify.app/",
     technology: "React.js",
     description:
-      "Information portal for english teaching school. The teamproject is built with React and Redux.",
+      "Web-app for diet-planning and calories calculation. The teamproject is built with React and Redux.",
   },
   {
     name: "OLX SHOP",
