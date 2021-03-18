@@ -103,7 +103,7 @@ export const experience = [
   {
     work: "ABSOLUTBANK",
     name:
-      "from technikal support spesialist to senior technikal support spesialist",
+      "from technical support specialist to senior technical support specialist",
     year: "2010-2015",
     place: "Minsk,Belarus",
     competence: [
@@ -129,15 +129,15 @@ export const projects = [
   },
   {
     name: "OLX SHOP",
-    link: "https://vera-korzun.github.io/Project-1/",
-    technology: "HTML, CSS",
+    link: "https://vera-korzun.github.io/Project-2/",
+    technology: "Javascript",
     description:
       "Online shop. The teamproject is built with webpack, written in vanilla javascript.",
   },
   {
     name: "HELLEN",
-    link: "https://vera-korzun.github.io/Project-2/",
-    technology: "Javascript",
+    link: "https://vera-korzun.github.io/Project-1/",
+    technology: "HTML, CSS",
     description:
       "Information portal for english teaching school. The teamproject is built with JS, HTML, SASS, FlexBox.",
   },
