@@ -34,6 +34,7 @@ export const techSkills = [
   "WebPack",
   "JavaScript",
   "React.js",
+  "Node.js",
 ];
 
 export const softSkills = [
@@ -102,8 +103,7 @@ export const experience = [
   },
   {
     work: "ABSOLUTBANK",
-    name:
-      "from technical support specialist to senior technical support specialist",
+    name: "from technical support specialist to senior technical support specialist",
     year: "2010-2015",
     place: "Minsk,Belarus",
     competence: [
@@ -121,11 +121,18 @@ export const experience = [
 
 export const projects = [
   {
+    name: "Books Reading",
+    link: "https://read-book-teamproject.netlify.app",
+    technology: "React.js/Node.js",
+    description:
+      "The application allows you to control how long you read a certain number of books in a specified period of time. The teamproject is built with React.js and Node.js.",
+  },
+  {
     name: "SlimMom",
     link: "https://vera-korzun-teamproject-3.netlify.app/",
     technology: "React.js",
     description:
-      "Web-app for diet-planning and calories calculation. The teamproject is built with React and Redux.",
+      "Web-app for diet-planning and calories calculation. The teamproject is built with ReactJS and Redux.",
   },
   {
     name: "OLX SHOP",
