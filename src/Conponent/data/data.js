@@ -83,7 +83,7 @@ export const course = [
   {
     name: "GoIT",
     type: "Fullstack JS Developer",
-    year: "2020-Present",
+    year: "2020-2021",
     place: "Kiev, Ukraine",
   },
   {
