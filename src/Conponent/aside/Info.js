@@ -9,7 +9,7 @@ const Info = () => {
       <aside>
         <h2 className="info__title">Vera Korzun</h2>
         <h3 className="info__title-second">Front-end developer</h3>
-        <img className="info__img" src={myPhoto} alt="My photo" />
+        <img className="info__img" src={myPhoto} alt="My photo1" />
         <div className="info__contacts">
           <h3 className="info__title-second">Contacts</h3>
           <ul className="list info__list">

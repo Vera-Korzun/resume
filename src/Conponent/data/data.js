@@ -35,6 +35,7 @@ export const techSkills = [
   "JavaScript",
   "React.js",
   "Node.js",
+  "Scrum",
 ];
 
 export const softSkills = [
